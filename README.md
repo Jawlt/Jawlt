@@ -1,6 +1,6 @@
-👋 Hi, I’m Jwalant Patel <br />
+👋 Hi, I’m Jwalant <br />
 👀 Interested in programming and creating projects im intrested. Related to software engineering, web develpment, AI, and Robotics. <br />
-🌱 Currently learning Python, JavaScript, jQuery, Node.js, C, C++ <br />
+🌱 Currently learning React, SQL, PostgreSQL and MongoDB <br />
 💞️ Looking to collaborate on bigger projects in the furture once I have my fundamentals down. <br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawlt&theme=radical&show_icons=true)
